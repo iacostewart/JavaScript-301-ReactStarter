@@ -1,0 +1,31 @@
+funcemental React Concepts 
+    Components: This is one of the best parts about react. 
+        everything is broken up into separate reusable components. 
+
+    javaScript: React can be used in tandem with vanilla JavaScript. 
+
+    JSX: JSX is a syntax used in React Components that looks similar 
+    to HTML. 
+
+    Props: Props are a nice way of passing data around the app and 
+         down through the Components. 
+    
+    State: You'll learn alot about how the state of an application 
+        changes and how we can see the state change, without 
+        having to rerender the entire DOM. 
+
+    LifeCycle Methods: LifeCycle methods allow us to run components at certain times
+        before page load, in the middle and at the end. 
+
+    _____________________________________________________________
+
+
+  ** Classes
+  ** Constructors
+  ** Extends
+  ** Super()
+  ** String interpolation
+  ** .map() 
+  ** .filter()
+
+  
